@@ -1,3 +1,14 @@
 body {
     background-color:lightsalmon;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    width: 200px;
+    margin-top: 10px;
+}
+
+h2 {
+    border: 2px solid crimson;
+    background-color: aquamarine;
 }
